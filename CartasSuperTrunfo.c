@@ -84,9 +84,9 @@ int main() {
 
   printf("população: %i\n", população1);
 
-  printf("pib: %.2f\n", pib1);
+  printf("pib: %.2f\n Reais", pib1);
 
-  printf("área: %.2f\n", area1);
+  printf("área: %.2f\n KM²", area1);
 
   printf("pontos: %i\n", pontos1);
   printf("\n");
@@ -104,9 +104,9 @@ int main() {
 
   printf("população: %i\n", população2);
 
-  printf("pib: %.2f\n", pib2);
+  printf("pib: %.2f\n Reais", pib2);
 
-  printf("área: %.2f\n", area2);
+  printf("área: %.2f\n KM²", area2);
 
   printf("pontos: %i\n", pontos2);
 
